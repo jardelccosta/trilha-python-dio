@@ -4,5 +4,5 @@ for carro in carros:
     print(carro)
 
 
-for indice, carro in enumerate(carros):
-    print(f"{indice}: {carro}")
+for indicee, carro in enumerate(carros):
+    print(f"{indicee}: {carro}")
